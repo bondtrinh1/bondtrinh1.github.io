@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -16,10 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React!
         </a>
       </header>
- 
     </div>
   );
 }
